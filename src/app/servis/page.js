@@ -166,7 +166,7 @@ export default function services() {
           <div className="h-[130px] w-[181px] rounded overflow-hidden shadow-lg bg-white m-8 ">
             <Image
               className=" mx-auto pt-3"
-              src="/electric.png"
+              src="/consult.png"
               alt="logo"
               width={40}
               height={40}
