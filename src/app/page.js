@@ -100,9 +100,11 @@ export default function Home() {
               building in the U.S.{" "}
             </p>
             <div>
+           <Link href="/about">
               <button class=" hover:bg-[#F9995D] hover:text-white text-black rounded ml-[40px] bg-white w-[200px] mx-1 my-1 mb-11">
                 More on our history
               </button>
+              </Link>
             </div>
           </div>
         </div>
